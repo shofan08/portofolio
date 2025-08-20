@@ -1,0 +1,38 @@
+#home {
+  color: #ffff;
+  min-height: 80vh;
+  overflow-x: hidden;
+  font-family: 'Courier New', Courier, monospace;
+}
+#home .col-md-6 {
+  display: flex;
+  justify-content: flex-end; /* tengah horizontal */
+  align-items: center;     /* tengah vertikal */
+  height: 80vh;            /* biar penuh hampir 1 layar */
+}
+body {
+  overflow-x: hidden;
+}
+
+.card {
+  background-color: black !important;
+  color: #ffff !important;
+  max-width: 600px;      /* batasi lebar */
+}
+
+.card  .h1 {
+  font-size: 3.75rem !important;
+  line-height: 1 !important;
+  font-weight: bold !important;
+}
+.profile {
+    border-radius: .75rem;
+    object-fit: cover;
+    display: block;
+    height: 24rem;
+    width: 24rem;
+    /* margin-left: 50px; */
+}
+.maroon {
+  color: #8B0712;
+}

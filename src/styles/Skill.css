@@ -1,0 +1,24 @@
+#skill {
+    color: #ffff;
+    background-color: #000000;
+    min-height: 80vh;
+    overflow-x: hidden;
+    font-family: 'Courier New', Courier, monospace;
+}
+.skill-wrapper {
+  width: 150px;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #fff;       /* bisa kasih background */
+  border-radius: 12px;    /* biar rounded */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin: auto;
+}
+
+.skill-wrapper img {
+  max-width: 80%;
+  max-height: 80%;
+  object-fit: contain;
+}

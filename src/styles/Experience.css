@@ -1,0 +1,14 @@
+#experience {
+  color: #ffff;
+  background-color: #154D71;
+  min-height: 70vh;
+  overflow-x: hidden;
+  font-family: 'Courier New', Courier, monospace;
+}
+.logo-company {
+  width: 5rem;
+  height: 5rem;
+}
+.desc {
+  font-size: 1rem;
+}

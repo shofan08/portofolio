@@ -1,0 +1,21 @@
+#contact {
+  color: #ffff;
+  background-color: #000000;
+  height: 90vh;
+  overflow-x: hidden;
+  font-family: 'Courier New', Courier, monospace;
+}
+/* .kontak {
+  background-color: #ffff !important;
+} */
+.judul {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.desc {
+  font-size: 1rem;
+  font-weight: bold;
+}
+a {
+  text-decoration: none !important;
+}
