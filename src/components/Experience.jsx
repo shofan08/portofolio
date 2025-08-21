@@ -37,7 +37,7 @@ function Experience() {
                                             <img src={bjbs} alt="Logo" className='rounded-circle logo-company'/>
                                         </div>
                                     </div>
-                                    <h5 className='fw-bold' style={{color: "#8B0712"}}>Jan 2019 - Current</h5>
+                                    <h5 className='fw-bold' style={{color: "#8B0712"}}>Jan 2022 - Current</h5>
                                     <span className='desc'>I contribute as Front End in application development and in creating new applications.</span>
                                 </div>
                             </div>

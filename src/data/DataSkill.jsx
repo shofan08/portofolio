@@ -28,7 +28,7 @@ export const skills = [
     {
         id: '4',
         image: codeigniter,
-        href: 'https://codeiginiter.com/'
+        href: 'https://codeigniter.com/'
     },
     {
         id: '5',
