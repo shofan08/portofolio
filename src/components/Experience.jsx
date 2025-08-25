@@ -24,6 +24,7 @@ function Experience() {
                                         </div>
                                     </div>
                                     <h5 className='fw-bold' style={{color: "#8B0712"}}>Jan 2019 - Current</h5>
+                                    <h5 className='fw-bold' style={{color: "#8B0712"}}>Programmer</h5>
                                     <span className='desc' style={{color: "white"}}>I work in this company to improve my skills in web development and representing data into visual forms.</span>
                                 </div>
                             </div>
@@ -38,6 +39,7 @@ function Experience() {
                                         </div>
                                     </div>
                                     <h5 className='fw-bold' style={{color: "#8B0712"}}>Jan 2022 - Current</h5>
+                                    <h5 className='fw-bold' style={{color: "#8B0712"}}>Frontend Developer (Outsourcing)</h5>
                                     <span className='desc'>I contribute as Front End in application development and in creating new applications.</span>
                                 </div>
                             </div>
