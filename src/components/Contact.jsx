@@ -31,7 +31,7 @@ function Contact() {
                                             <FaLinkedin size={40} color="#8B0712" />
                                         </div>
                                         <div className="col-md-10 align-items-center d-flex">
-                                            <a href='https://www.linkedin.com/in/shofan-nashrulhaq-289767151/' target='_blanj' className='desc maroon'>Shofan Nashrulhaq</a>
+                                            <a href='https://www.linkedin.com/in/shofan-nashrulhaq-4b8056384/' target='_blanj' className='desc maroon'>Shofan Nashrulhaq</a>
                                         </div>
                                     </div>
                                 </div>
